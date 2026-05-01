@@ -1,2 +1,3 @@
-# maximous_repo
-website_games and stuff
+### maximous_repo
+
+Repository for Maximous, code and website
